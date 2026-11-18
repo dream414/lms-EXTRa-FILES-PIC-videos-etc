@@ -1,0 +1,10 @@
+Learn the fundamentals of cloud computing.
+Understand cloud services and technologies.
+Explore public, private, and hybrid clouds.
+Learn about cloud storage and computing resources.
+Understand Infrastructure as a Service.
+Explore Platform and Software as a Service.
+Learn basic cloud security concepts.
+Understand virtualization and scalable resources.
+Explore real-world cloud computing applications.
+Build a foundation for modern cloud technologies.

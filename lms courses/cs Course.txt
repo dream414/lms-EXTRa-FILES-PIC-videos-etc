@@ -1,0 +1,11 @@
+1. Introduction to Computer Science
+Learn the basic concepts of computer science.
+Understand computer hardware and software.
+Learn the fundamentals of programming.
+Understand algorithms and problem-solving.
+Explore operating systems and applications.
+Learn basic database concepts.
+Understand computer networks.
+Explore information technology concepts.
+Develop logical and analytical thinking.
+Build a strong foundation for advanced computer studies.

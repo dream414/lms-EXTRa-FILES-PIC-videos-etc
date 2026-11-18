@@ -1,0 +1,11 @@
+Computer Networks 
+Learn the fundamentals of computer networking.
+Understand different types of networks.
+Learn network devices and their functions.
+Understand IP addresses and network protocols.
+Explore LAN, WAN, and wireless networks.
+Learn basic network configuration concepts.
+Understand data communication methods.
+Explore network security fundamentals.
+Learn troubleshooting techniques.
+Develop practical knowledge of modern networks.

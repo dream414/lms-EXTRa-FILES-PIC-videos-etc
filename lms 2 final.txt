@@ -1,0 +1,146 @@
+Phase 1 — Backend Foundation
+DigitalBook Model
+Controller
+Routes
+Upload
+Access rules
+Phase 2 — Management Frontend
+Digital Dashboard
+Add Digital Book
+Manage Digital Books
+Edit Digital Book
+Phase 3 — Student Frontend
+Digital Books
+Book Details
+Read Online
+My Digital Books
+Phase 4 — Tracking
+Views
+Downloads
+Reading history
+Reports
+
+
+
+
+📝 17. Feedback & Reviews
+
+Members:
+
+Book rating ⭐
+Review
+Feedback
+Book recommendation
+
+
+⚙️ 16. System Settings
+
+Admin settings:
+
+Library name
+Logo
+Contact information
+Opening hours
+Maximum books per member
+Borrowing duration
+Fine per day
+Renewal limit
+Membership duration
+Email settings
+
+📚 15. Digital Library
+
+Advanced level par:
+
+PDF books
+E-books
+Audiobooks
+Online reading
+Download permissions
+Digital resource categories
+
+📊 13. Reports & Analytics
+
+Admin ke liye:
+
+Most borrowed books
+Most active members
+Overdue books
+Fine collection
+Lost books
+Damaged books
+Category-wise books
+Monthly issues
+Monthly returns
+Member borrowing history
+
+Reports ko:
+
+PDF
+Excel/CSV
+Print
+
+mein export kar sakti hain.
+
+📚 1. Dashboard
+Total Books
+Available Books
+Issued Books
+Overdue Books
+Total Members/Students
+Total Librarians
+Total Authors & Publishers
+Fine Collected
+Recent Issues/Returns
+Monthly/Yearly statistics
+Charts & graphs
+
+📦 7. Inventory Management
+Total copies
+Available copies
+Damaged copies
+Lost copies
+Missing books
+Stock adjustment
+Inventory history
+Shelf/rack management
+🏷️ 8. Barcode / QR System
+
+Professional LMS ke liye ye bahut useful hai:
+
+Book → Barcode/QR → Scan → Book details
+
+Aur:
+Student Library Card → Scan → Student details
+
+Isse issue/return process fast ho sakta hai.
+
+
+
+
+
+
+
+ {
+    number: '02',
+    name: 'Mahak Dev',
+    role: 'Program Supervisor',
+    category: 'PROGRAMS',
+    image: MAHAK_IMAGE,
+    imagePosition: 'center 27%',
+    description:
+      'Supervising programs and helping shape a practical learning experience for students. Brings 4–5 years of experience across UI/UX design, web development and software development.',
+    expertise: 'UI/UX • Web Development • Software Development',
+    experience: '4–5 YEARS EXPERIENCE',
+  },
+ {
+    number: '05',
+    name: 'Muqadas Malik',
+    role: 'Graphics / AI',
+    category: 'CREATIVE + AI',
+    image: MUQADAS_IMAGE,
+    imagePosition: 'center 22%',
+    description:
+      'Combining visual creativity with emerging AI tools to develop engaging digital content and creative technology experiences.',
+    expertise: 'Graphic Design • Creative AI • Digital Content',
+  },

@@ -1,0 +1,11 @@
+Artificial Intelligence
+Learn the basic concepts of artificial intelligence.
+Understand intelligent systems and automation.
+Explore machine learning fundamentals.
+Learn about data and pattern recognition.
+Understand basic AI algorithms.
+Explore natural language processing concepts.
+Learn about computer vision applications.
+Understand AI in real-world industries.
+Practice solving problems using AI techniques.
+Develop a foundation for advanced AI studies.

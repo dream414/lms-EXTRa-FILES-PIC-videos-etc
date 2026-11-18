@@ -1,0 +1,11 @@
+. Cyber Security
+Learn the fundamentals of cybersecurity.
+Understand common digital security threats.
+Learn how to protect computer systems.
+Understand network security principles.
+Explore password and authentication security.
+Learn about malware and phishing attacks.
+Understand data protection techniques.
+Explore basic security monitoring concepts.
+Learn safe practices for digital environments.
+Develop awareness of modern cybersecurity challenges.

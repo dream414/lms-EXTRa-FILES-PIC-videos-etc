@@ -1,0 +1,12 @@
+| #  | Department Name               | Code | Description                                                                                                    | Status |
+| -- | ----------------------------- | ---- | -------------------------------------------------------------------------------------------------------------- | ------ |
+| 1  | Computer Science              | CS   | Focuses on programming, software development, databases, web technologies, and information technology.         | Active |
+| 2  | Information Technology        | IT   | Provides education in networking, systems, cybersecurity, cloud computing, and modern IT solutions.            | Active |
+| 3  | English                       | ENG  | Develops students' English language, communication, literature, writing, and presentation skills.              | Active |
+| 4  | Mathematics                   | MATH | Provides education in mathematical concepts, problem-solving, statistics, and analytical reasoning.            | Active |
+| 5  | Physics                       | PHY  | Covers fundamental concepts of physics, scientific principles, experimentation, and practical applications.    | Active |
+| 6  | Chemistry                     | CHEM | Focuses on chemical sciences, laboratory work, chemical reactions, and practical applications.                 | Active |
+| 7  | Biology                       | BIO  | Covers biological sciences, living organisms, genetics, ecology, and modern biological concepts.               | Active |
+| 8  | Business Administration       | BBA  | Provides knowledge of management, finance, marketing, entrepreneurship, and business operations.               | Active |
+| 9  | Library & Information Science | LIS  | Focuses on library management, information organization, digital resources, cataloging, and research services. | Active |
+| 10 | Education                     | EDU  | Prepares students for teaching, educational management, learning methodologies, and professional development.  | Active |
